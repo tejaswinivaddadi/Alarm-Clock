@@ -15,7 +15,7 @@ This is a simple Alarm Clock application built with Python using the tkinter lib
 
 1. Clone the repository:
    
-   https://github.com/tejaswinivaddadi/Alarm-Clock.git
+   [https://github.com/tejaswinivaddadi/Alarm-Clock.git](url)
   
 
    
