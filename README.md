@@ -14,8 +14,8 @@ This is a simple Alarm Clock application built with Python using the tkinter lib
 ### Installation
 
 1. Clone the repository:
-   ```sh
-  git clone https://github.com/harshalsoman/Crimes-and-Street-Lighting.git
+   https://github.com/tejaswinivaddadi/Alarm-Clock.git
+  
 
    
 ### Usage
